@@ -8,5 +8,19 @@
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;shashanks-cyber-trove&#34;&gt;Shashank’s Cyber Trove&lt;/h1&gt;&#xA;&lt;p&gt;Securing Digital Frontiers with Ethical Hacking &amp;amp; Cybersecurity&lt;/p&gt;&#xA;&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;&#xA;&lt;p&gt;👋 Hi, I’m &lt;strong&gt;Shashank Vishwakarma&lt;/strong&gt; from Mumbai,India.&lt;br&gt;&#xA;👀 I’m an Aspiring Cybersecurity Professional.&lt;br&gt;&#xA;🧠 Currently pursuing eJPT v2 and CEH v13, enhancing my skills in ethical hacking, penetration testing, and vulnerability assessment.&lt;/p&gt;&#xA;&lt;h2 id=&#34;hobbies&#34;&gt;Hobbies&lt;/h2&gt;&#xA;&lt;p&gt;🎮 When I’m not exploring cybersecurity, I enjoy playing mobile and open world games.&lt;br&gt;&#xA;📖 I also love reading tech blogs and staying updated on cybersecurity trends.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;h2 id=&#34;will-be-updated-soon&#34;&gt;WILL BE UPDATED SOON&lt;/h2&gt;</description>
+    </item>
   </channel>
 </rss>
